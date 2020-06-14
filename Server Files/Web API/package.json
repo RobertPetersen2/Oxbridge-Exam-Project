@@ -1,0 +1,18 @@
+{
+    "dependencies": {
+        "@microsoft/signalr": "^3.1.4",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "chai": "^4.2.0",
+        "chai-http": "^4.3.0",
+        "cors": "^2.8.5",
+        "eventsource": "^1.0.7",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "mocha": "^7.2.0",
+        "mongoose": "^5.9.14",
+        "public-ip": "^4.0.1",
+        "socket.io": "^2.3.0",
+        "ws": "^7.3.0"
+    }
+}
